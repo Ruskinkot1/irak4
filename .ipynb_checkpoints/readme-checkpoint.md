@@ -39,7 +39,7 @@ cd irak4
 2. Создайте окружение из файла `environment.yml` с именем `irak4`:
 
 ```bash
-conda env create -f environment.yml -n irak4
+conda env create -f irak4_environment.yml
 ```
 
 3. Активируйте окружение:
